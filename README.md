@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjan-Sharma
 - 👀 I’m interested in Programming, Football, Singing, Learning
-- 🌱 I’m currently learning Wordpress, Django
+- 🌱 I’m currently learning Wordpress, Django, JS
 - 📫 anjansharma232@gmail.com
 
 <!---
